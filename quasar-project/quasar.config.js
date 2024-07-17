@@ -1,3 +1,11 @@
+return {
+  framework: {
+    plugins: [
+      'Notify'
+    ],
+  }
+}
+
 /* eslint-env node */
 
 /*
